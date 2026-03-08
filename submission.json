@@ -3,5 +3,7 @@
   "model": "DALL·E 3",
   "dataset_name": "World Inequality Database – Global Wealth Distribution",
   "dataset_url": "https://wid.world",
-  "insight": "The richest 1% hold more wealth than billions of people combined."
+  "insight": "The richest 1% hold more wealth than billions of people combined.",
+  "concept": "Extreme wealth concentration in which resources accumulate toward a tiny elite while billions remain with very little.",
+  "metaphor": "A tilted landscape where wealth slides uphill toward a single mansion, symbolizing how the economic system channels resources toward the richest few."
 }
