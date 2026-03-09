@@ -1,0 +1,8 @@
+{
+  "prompt": "A single-frame scientific illustration of gradient descent rendered as a 19th-century naturalist plate. Show a sloping topographic landform descending into a clearly defined basin representing the minimum, with a sequence of small marked positions and directional indicators showing stepwise descent toward the lowest point. Compose it like a historical natural history or geological specimen plate: precise observational draftsmanship, fine engraved contour lines, delicate cross-hatching, restrained hand-colored watercolor washes, muted earth tones, pale moss green, sepia, ochre, and cream paper background. Include small scientific annotations and plate-style labeling integrated subtly into the composition. The image should feel like an authentic 19th-century naturalist illustration rather than a modern infographic. No glossy 3D rendering, no modern fonts, no neon colors, no digital UI, no photorealistic shading, no multiple panels.",
+  "model": "DALL·E 3",
+  "concept": "gradient descent",
+  "tradition_name": "19th-century naturalist illustration",
+  "tradition_period": "19th century",
+  "tradition_approach": "Targeted specimen-plate composition, fine engraved linework, muted hand-colored washes, and scientific annotations to make gradient descent legible within authentic naturalist visual grammar."
+}
